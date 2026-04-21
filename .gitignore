@@ -1,0 +1,12 @@
+CMakeFiles/
+CMakeCache.txt
+/code
+/cmake_install.cmake
+/Makefile
+/CMakeFiles/
+/CMakeCache.txt
+*.o
+*.obj
+*.exe
+/ref_deque/
+
